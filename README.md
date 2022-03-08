@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvin</h1>
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
 
-- 🔭 I’m currently working on [Caucher.com](https://caucher.com/)
+- 🔭 I’m currently working on [Helka Blog](https://helka.vercel.app/)
 
 - 🌱 I’m currently learning **React, Nodejs, Flutter, Dart**
 
@@ -20,7 +20,7 @@
 let arviinmo: Profile = {
   pronouns: "he/him",
   languages: ["Kurdish", "English", "Persian"],
-  code: ["JavaScript", "HTML", "CSS", Python],
+  code: ["JavaScript", "HTML", "CSS", "Python"],
   tools: ["React", "Next.js", "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL"],
   links: {
     blog: "https://helka.vercel.app/", // ✍️
