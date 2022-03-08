@@ -17,17 +17,17 @@
 
 
 ```ts
-let danestves: Profile = {
+let arviinmo: Profile = {
   pronouns: "he/him",
-  languages: ["Spanish", "English"],
-  code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Gatsby", "Remix", "Vue", "Nuxt", "Node.js", "Prisma", "GraphQL"],
+  languages: ["Kurdish", "English", "Persian"],
+  code: ["JavaScript", "HTML", "CSS", Python],
+  tools: ["React", "Next.js", "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL"],
   links: {
-    blog: "https://danestves.com/blog", // ✍️
-    youtube: "https://youtube.com/danesteves", // 🎬
-    instagram: "https://instagram.com/danestves", // 📷
-    twitter: "https://twitter.com/danestves", // 🐤
-    linkedin: "https://linkedin.com/in/danestves" // 💼
+    blog: "https://helka.vercel.app/", // ✍️
+    youtube: "https://youtube.com/arvinmo", // 🎬
+    instagram: "https://instagram.com/arvinmostafaeii", // 📷
+<!--     twitter: "https://twitter.com/", // 🐤 -->
+    linkedin: "https://linkedin.com/in/arvinmostafaei" // 💼
   },
 };
 ```
