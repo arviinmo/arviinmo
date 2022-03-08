@@ -21,7 +21,8 @@ let arviinmo: Profile = {
   pronouns: "he/him",
   languages: ["Kurdish", "English", "Persian"],
   code: ["JavaScript", "HTML", "CSS", "Python"],
-  tools: ["React", "Next.js", "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL"],
+  tools: ["React", "Redux", "React-Router", "Styled-Component", "Tailwind", "Next.js", "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL", "Wordpress"],
+  design: ["Figma", "PhotoShop", "Adobe XD"]
   links: {
     blog: "https://helka.vercel.app/", // ✍️
     youtube: "https://youtube.com/arvinmo", // 🎬
