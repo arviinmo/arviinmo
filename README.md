@@ -1,4 +1,4 @@
-<h1 align="center">H</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
 
 - 🔭 I’m currently working on [Helka Blog](https://helka.vercel.app/)
