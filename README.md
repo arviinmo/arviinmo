@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm kind of afraid of AI**
 
-<a href="https://app.daily.dev/smiggle"><img src="https://api.daily.dev/devcards/0d08c19b3823481b9619fb08d1f39b46.png?r=is5" width="400" alt="Arvin mostafaei's Dev Card"/></a>
+<a href="https://app.daily.dev/smiggle"><img src="https://api.daily.dev/devcards/0d08c19b3823481b9619fb08d1f39b46.png?r=is5" width="100" alt="Arvin mostafaei's Dev Card"/></a>
 
 ```ts
 let arviinmo: Profile = {
