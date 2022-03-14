@@ -1,5 +1,3 @@
-- 📫 How to reach me **Arvinmostafaeii@gmail.com**
-
 - ⚡ Fun fact **I'm kind of afraid of AI**
 
 ```ts
