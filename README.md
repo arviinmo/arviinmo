@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Arvin</h1>
-<h3 align="center">A passionate frontend developer from Kurdistan</h3>
-
 - 🔭 I’m currently working on [Helka Blog](https://helka.vercel.app/)
 
 - 🌱 I’m currently learning **Typescript, Flutter, Dart**
