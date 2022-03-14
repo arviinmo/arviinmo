@@ -1,5 +1,3 @@
-- ⚡ Fun fact **I'm kind of afraid of AI**
-
 ```ts
 let arviinmo: Profile = {
   pronouns: "he/him",
