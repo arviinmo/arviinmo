@@ -1,5 +1,3 @@
-- 👨‍💻 All of my projects are available at [https://arvin.vercel.app](https://arvin.vercel.app)
-
 - 📝 I regularly write articles on [https://helka.vercel.app](https://helka.vercel.app)
 
 - 💬 Ask me about **react, wordpress, javascript**
