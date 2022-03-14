@@ -1,5 +1,3 @@
-- 🔭 I’m currently working on [Helka Blog](https://helka.vercel.app/)
-
 - 🌱 I’m currently learning **Typescript, Flutter, Dart**
 
 - 👨‍💻 All of my projects are available at [https://arvin.vercel.app](https://arvin.vercel.app)
