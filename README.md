@@ -1,5 +1,3 @@
-- 📝 I regularly write articles on [https://helka.vercel.app](https://helka.vercel.app)
-
 - 💬 Ask me about **react, wordpress, javascript**
 
 - 📫 How to reach me **Arvinmostafaeii@gmail.com**
