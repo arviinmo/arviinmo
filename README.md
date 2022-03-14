@@ -1,5 +1,3 @@
-- 💬 Ask me about **react, wordpress, javascript**
-
 - 📫 How to reach me **Arvinmostafaeii@gmail.com**
 
 - ⚡ Fun fact **I'm kind of afraid of AI**
