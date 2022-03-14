@@ -1,5 +1,3 @@
-- 🌱 I’m currently learning **Typescript, Flutter, Dart**
-
 - 👨‍💻 All of my projects are available at [https://arvin.vercel.app](https://arvin.vercel.app)
 
 - 📝 I regularly write articles on [https://helka.vercel.app](https://helka.vercel.app)
