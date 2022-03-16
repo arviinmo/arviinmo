@@ -12,7 +12,7 @@ let arviinmo: Profile = {
     blog: "https://helka.vercel.app/", // ✍️
     youtube: "https://youtube.com/arvinmo", // 🎬
     instagram: "https://instagram.com/arvinmostafaeii", // 📷
-    twitter: "https://twitter.com/", // 🐤
+    twitter: "https://twitter.com/smigle24", // 🐤
     linkedin: "https://linkedin.com/in/arvinmostafaei" // 💼
   },
 };
