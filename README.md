@@ -1,4 +1,4 @@
-```py
+```tsx
 let arviinmo: Profile = {
   pronouns: "he/him",
   languages: ["Kurdish", "English", "Persian"],
