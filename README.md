@@ -1,7 +1,7 @@
 ```ts
 let arviinmo: Profile = {
   pronouns: "he/him",
-  Age: "18",
+  age: "18",
   languages: ["Kurdish", "English", "Persian"],
   OS: ["Linux"],
   IDE&CodeEditor: ["Visual Studio Code", "Sublime Text", "WebStorm"]
