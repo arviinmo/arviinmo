@@ -3,7 +3,7 @@ let arviinmo: Profile = {
   pronouns: "he/him",
   age: "18",
   languages: ["Kurdish", "English", "Persian"],
-  OS: ["Linux"],
+  OS: ["Linux", "Windows"],
   IDE&CodeEditor: ["Visual Studio Code", "Sublime Text", "WebStorm"]
   code: ["JavaScript", "HTML", "CSS", "Python"],
   Frameworks&Libraries: ["React", "Redux", "React-Router", "Styled-Component", "Tailwind", "Docker", "Next.js",
