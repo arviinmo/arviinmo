@@ -2,7 +2,7 @@
 let arviinmo: Profile = {
   pronouns: "he/him",
   age: "18",
-  languages: ["Kurdish", "English", "Persian", "Arabi"],
+  languages: ["Kurdish", "English", "Persian", "Arabic"],
   OS: ["Linux", "Windows"],
   IDE&CodeEditor: ["Visual Studio Code", "Sublime Text", "WebStorm"]
   code: ["JavaScript", "HTML", "CSS", "Python"],
