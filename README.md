@@ -4,11 +4,11 @@ let arviinmo: Profile = {
   age: "18",
   languages: ["Kurdish", "English", "Persian", "Arabic"],
   OS: ["Linux", "Windows"],
-  IDE&CodeEditor: ["Visual Studio Code", "Sublime Text", "WebStorm"]
+  IDE&CodeEditor: ["Visual Studio Code", "Sublime Text", "WebStorm"],
   code: ["JavaScript", "HTML", "CSS", "Python"],
   Frameworks&Libraries: ["React", "Redux", "React-Router", "Styled-Component", "Tailwind", "Docker", "Next.js",
   "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL", "Wordpress"],
-  design: ["Figma", "PhotoShop", "Adobe XD", "Blender"]
+  design: ["Figma", "PhotoShop", "Adobe XD", "Blender"],
   links: [
     blog: "https://helka.vercel.app/", // ✍️
     youtube: "https://youtube.com/arvinmo", // 🎬
