@@ -9,7 +9,7 @@ let arviinmo: Profile = {
   Frameworks&Libraries: ["React", "Redux", "React-Router", "Styled-Component", "Tailwind", "Docker", "Next.js",
   "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL", "Wordpress"],
   Design: ["Figma", "PhotoShop", "Adobe XD", "Blender"],
-  SoftSkills: [Decision-making, Multitasking, problem-solving, ],
+  SoftSkills: [Decision-making, Multitasking, problem-solving, Communication],
   links: [
     blog: "https://helka.vercel.app/", // ✍️
     youtube: "https://youtube.com/arvinmo", // 🎬
