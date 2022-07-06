@@ -12,4 +12,5 @@ let arviinmo: Profile = {
   SoftSkills: [Decision-making, Multitasking, Problem-solving, Communication, Leadership, Teamwork],
 };
 ```
-https://hits.dwyl.com/arviinmo/arviinmo
+  [![HitCount](https://hits.dwyl.com/arviinmo/arviinmo.svg?style=flat-square&show=unique)](http://hits.dwyl.com/arviinmo/arviinmo)
+
