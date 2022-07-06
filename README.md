@@ -4,7 +4,7 @@ let arviinmo: Profile = {
   age: "18",
   Languages: ["Kurdish", "English", "Persian", "Arabic"],
   OS: ["Linux", "Windows"],
-  IDE&CodeEditor: ["Visual Studio Code", "Sublime Text", "WebStorm"],
+  IDE&CodeEditor: ["Visual Studio Code", "Sublime Text", "WebStorm", "Atom"],
   code: ["JavaScript", "HTML", "CSS", "Python"],
   Frameworks&Libraries: ["React", "Redux", "React-Router", "Styled-Component", "Tailwind", "Docker", "Next.js",
   "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL", "Wordpress"],
