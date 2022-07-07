@@ -7,7 +7,7 @@ let arviinmo: Profile = {
   IDE&CodeEditor: ["Visual Studio Code", "Sublime Text", "WebStorm", "Atom"],
   code: ["JavaScript", "HTML", "CSS", "Python"],
   Frameworks&Libraries: ["React", "Redux", "React-Router", "Styled-Component", "Tailwind", "Docker", "Next.js",
-  "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL", "Wordpress", "Git", "Github", ""],
+  "Gatsby", "Remix", "Webpack", "Typescript", "Node.js", "Expressjs", "GraphQL", "Wordpress", "Git", "Github", "Githlab"],
   Design: ["Figma", "PhotoShop", "Adobe XD", "Blender"],
   SoftSkills: [Decision-making, Multitasking, Problem-solving, Communication, Leadership, Teamwork],
 };
