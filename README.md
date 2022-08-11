@@ -1,3 +1,6 @@
+<details>
+  <summary>Click me!</summary>
+  
 ```ts
 let arviinmo: Profile = {
   pronouns: "he/him",
@@ -13,3 +16,4 @@ let arviinmo: Profile = {
 };
 ```
 
+</details>
