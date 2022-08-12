@@ -1,5 +1,6 @@
 <details>
   <summary>Click me!</summary>
+  <br/>
   
 ```ts
 let arviinmo: Profile = {
