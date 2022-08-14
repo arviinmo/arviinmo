@@ -17,5 +17,5 @@ let arviinmo: Profile = {
 };
 ```
 
-<div align="center"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
+<div align="center"><a href="https://github.com/arviinmo"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
 </details>
