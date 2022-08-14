@@ -1,5 +1,5 @@
 <details>
-  <summary>Click me!</summary>
+  <summary align="center">Click me!</summary>
   <br/>
   
 ```ts
@@ -18,4 +18,4 @@ let arviinmo: Profile = {
 ```
 
 </details>
-<div href="https://github.com/arviinmo/" align="center"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
+<div align="center"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
