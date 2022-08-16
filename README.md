@@ -1,5 +1,5 @@
 <details>
-  <summary align="right">Click me!</summary>
+  <summary align="left">Click me!</summary>
   <br/>
   
 ```ts
